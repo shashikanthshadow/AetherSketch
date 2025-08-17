@@ -14,7 +14,7 @@ The primary objective of this project is to create a functional and repeatable p
 
 Here is a quick demonstration of the model in action, showcasing its ability to generate images in the target art style.
 
-! [AetherSketch Demo GIF](demo.gif)
+![AetherSketch](demo.gif)
 
 ---
 
